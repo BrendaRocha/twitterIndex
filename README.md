@@ -4,8 +4,8 @@ La indexación permite una búsqueda rápida y precisa a través de palabras cla
 
 Características Principales:
 
-Eficiente Indexación: Utiliza algoritmos optimizados para indexar palabras clave en grandes volúmenes de datos./n
+Eficiente Indexación: Utiliza algoritmos optimizados para indexar palabras clave en grandes volúmenes de datos.
 
-Búsqueda Rápida: Permite búsquedas rápidas y precisas de tweets basadas en palabras clave específicas./n
+Búsqueda Rápida: Permite búsquedas rápidas y precisas de tweets basadas en palabras clave específicas.
 
-Fácil Integración: Scripts y herramientas fácilmente integrables en tu flujo de trabajo existente./n
+Fácil Integración: Scripts y herramientas fácilmente integrables en tu flujo de trabajo existente.
